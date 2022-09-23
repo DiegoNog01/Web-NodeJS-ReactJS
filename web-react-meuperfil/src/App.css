@@ -1,0 +1,18 @@
+.MeuPerfil{
+  text-align: center;
+
+}
+.imagem{
+  text-align: center;
+}
+
+.corpo{
+  border: 1px solid black;
+  margin-right: 500px;
+  margin-left: 500px;
+}
+
+img{
+  width: 250px;
+  height: 250px;
+}
